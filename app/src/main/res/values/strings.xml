@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedViewModelOnActivitySample</string>
+    <string name="hello_shared_main_fragment">Hello Shared Main Fragment</string>
+    <string name="hello_shared_sub_fragment">Hello Shared Sub Fragment</string>
+    <string name="add_player">ADD PLAYER</string>
+</resources>
